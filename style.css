@@ -31,4 +31,19 @@ p{
     font-size:20px;
 }
 
+footer {
+    backgroud-color: #222;
+    color: rgb(42,122,228);
+    bottom:0;
+    position: fixed;
+    width:100%
+
+}
+
+footer p{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 3px;
+    
+}
 
